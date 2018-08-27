@@ -15,6 +15,10 @@
         { "name": "DockingPortAlignmentIndicator" },
         { "name": "UniversalStorage" }
     ],
+    "comment": "This Mod has been replaced by NehemiahEngineeringOrbitalScience.",
+    "conflicts": [
+        { "name": "NehemiahEngineeringOrbitalScience" }
+    ],
     "install": [
         {
             "file": "NehemiahInc/MultiPurposeParts",

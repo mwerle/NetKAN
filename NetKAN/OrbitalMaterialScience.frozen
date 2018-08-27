@@ -15,6 +15,10 @@
         { "name": "NehemiahScienceCommon", "min_version": "1:0.7b2" },
         { "name": "NehemiahMultiPurposeParts", "min_version": "1:0.7b2" }
     ],
+    "comment": "This Mod has been replaced by NehemiahEngineeringOrbitalScience.",
+    "conflicts": [
+        { "name": "NehemiahEngineeringOrbitalScience" }
+    ],
     "install": [
         {
             "file": "NehemiahInc/OMS",

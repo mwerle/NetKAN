@@ -10,6 +10,10 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=149298"
     },
+    "comment": "This Mod has been replaced by NehemiahEngineeringOrbitalScience.",
+    "conflicts": [
+        { "name": "NehemiahEngineeringOrbitalScience" }
+    ],
     "install": [
         {
             "file": "NehemiahInc/NE_Science_Common",
